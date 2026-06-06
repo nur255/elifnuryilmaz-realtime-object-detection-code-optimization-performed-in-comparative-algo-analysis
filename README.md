@@ -59,7 +59,9 @@ The dataset contains:
 * 80 object categories
 * Bounding box annotations in COCO JSON format
 
-Dataset link:
+Dataset is not included in this repository.
+
+MS COCO 2017 can be downloaded from:
 
 https://cocodataset.org
 
