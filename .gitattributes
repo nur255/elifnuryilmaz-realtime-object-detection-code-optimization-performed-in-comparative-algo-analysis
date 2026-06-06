@@ -1,0 +1,2 @@
+src/weight-off-efficientdet/*.pth filter=lfs diff=lfs merge=lfs -text
+src/*.pth filter=lfs diff=lfs merge=lfs -text
