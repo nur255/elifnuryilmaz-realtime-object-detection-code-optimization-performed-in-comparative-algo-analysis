@@ -345,7 +345,8 @@ This repository will be archived through Zenodo to ensure long-term accessibilit
 DOI:
 10.5281/zenodo.20574222
 
-[Permanent URL:](https://doi.org/10.5281/zenodo.20574222)
+Permanent URL:
+(https://doi.org/10.5281/zenodo.20574222)
 ---
 
 # Citation
