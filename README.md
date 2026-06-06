@@ -343,9 +343,9 @@ The experiments demonstrate that:
 This repository will be archived through Zenodo to ensure long-term accessibility and reproducibility.
 
 DOI:
+10.5281/zenodo.20574222
 
-(To be added after Zenodo release)
-
+[Permanent URL:](https://doi.org/10.5281/zenodo.20574222)
 ---
 
 # Citation
